@@ -164,7 +164,7 @@ ol {
   border-bottom: 1px solid #fff;
   border-left: 0;
   padding: 2.5px 14px 2.5px 0;
-  color: rgba(255, 255, 255, 0.7);
+  color: #fff;
   font-family: Fira Sans Condensed;
   font-weight: 400;
   font-size: 18px;
@@ -231,7 +231,7 @@ ol {
 
 .content__list {
   position: relative;
-  overflow-y: scroll;
+  overflow-y: auto;
   block-size: 298px;
 }
 
